@@ -1,0 +1,6 @@
+Step 1- Download the file permutation.java
+Step 2- Open the cmd in the PC
+Step 3- Specify the location of the downloaded file.
+Step 4- Type "javac permutation.java" and press ENTER
+Step 5- Run command "java permutation.java input.csv"
+ It will output all the permutation Strings. 
